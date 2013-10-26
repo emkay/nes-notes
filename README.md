@@ -53,6 +53,11 @@ The PPU can hold 64 sprites in memory. 8 sprites per scanlines are allowed.
 
 ## NES Assembly Language Notes
 
+### Directives
+
+These are commands for the assembler.
+Start with `.` and are indented.
+
 ### CPU Registers
 
 All registers are 8-bit. 
